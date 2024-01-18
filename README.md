@@ -2,6 +2,8 @@
 Breast Tumor Diagnosis using KNN, Logistic Regression and Random Forests and optimization
 
 ## About the data set
+
+The data comes from Kaggle : Breast Cancer Wisconsin (Diagnostic) Data Set
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
