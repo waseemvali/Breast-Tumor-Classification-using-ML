@@ -20,7 +20,7 @@ Ten real-valued features are computed for each cell nucleus:
 - symmetry
 - fractal dimension ("coastline approximation" - 1)
 
-## Method used for classification 
+## Methods used for classification 
 
 - Logistic Regression
 - Classification and Regression Trees (CART)
