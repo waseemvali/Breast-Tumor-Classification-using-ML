@@ -22,6 +22,11 @@ Ten real-valued features are computed for each cell nucleus:
 
 ## Method used for classification 
 
-- KNN
 - Logistic Regression
-- Random Forest
+- Classification and Regression Trees (CART)
+- KNN
+- Bagging Classifier
+- Random Forest Regressor
+- AdaBoost Classifier
+
+
